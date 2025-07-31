@@ -184,7 +184,7 @@ body{
 @media only screen and (max-width: 640px) {   
     
     .header{
-        background-image: url('../img/foto-portada-movil.jpg?v3');
+        background-image: url('../img/bg-portada-movil.jpg?v3');
     }
 
     .header h1{
@@ -207,5 +207,12 @@ body{
     .box-slider{
         max-width: 90%;
     }
+    .box-youtube{        
+        margin: 60px auto;
+        max-width: 980px;
+    }
+        .box-youtube iframe{
+            height: 300px;
+        }
 
 }
