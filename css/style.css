@@ -14,7 +14,7 @@ body{
 
 .header{
     background-color: #000;
-    background-image: url('../img/bg-portada.jpg?v3');
+    background-image: url('../img/talon-dina.jpg');
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -184,7 +184,7 @@ body{
 @media only screen and (max-width: 640px) {   
     
     .header{
-        background-image: url('../img/bg-portada-movil.jpg?v3');
+        background-image: url('../img/talon-dina-movil.jpg');
     }
 
     .header h1{
